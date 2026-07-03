@@ -106,13 +106,13 @@ pip install pandas matplotlib seaborn pdfplumber pytesseract pillow pdf2image op
 
 ---
 
-## 👩‍💻 Autora
+## 👤 Sobre este repositório
 
-**Bárbara Gabriela**
+Este repositório é mantido por **Bianca Vitor** e contém o projeto desenvolvido em equipe para a disciplina **Tópicos de Big Data com Python**.
 
 ## 👥 Equipe
--Bianca Rafaela
--Wesley Augusto
--Gabriel Auvarenga
 
-Projeto desenvolvido como atividade extensionista da disciplina **Tópicos de Big Data com Python**.
+- Bianca Vitor
+- Bárbara Vitor
+- Wesley Augusto
+- Gabriel Alvarenga
